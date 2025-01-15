@@ -1,2 +1,2 @@
 # ReactProject
-learning react
+learning React
